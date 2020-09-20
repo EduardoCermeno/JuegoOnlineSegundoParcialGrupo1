@@ -1,1 +1,2 @@
-# JuegoOnlineSegundoParcialGrupo1
+# battleships-game
+javaScript HTML and CSS 
